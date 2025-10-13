@@ -1,6 +1,6 @@
 ## Gentouranos overlay
 This is a small project for me to have the packages I miss from the repo and existing overlays.  
-Although I try to do my best, you shouldn't expect any of my packages to build nor run on your system.  
+Although I try to do my best, **you shouldn't expect any of my packages to build nor run on your system**. Matter of fact, I don't think any works for now !  
 If you have the knowledge to fix what I'm trying to do, **don't hesistate to write a PR**, it'll be much appreciated !!  
 
 ## Enable this overlay
